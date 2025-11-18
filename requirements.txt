@@ -1,0 +1,13 @@
+python-telegram-bot==20.6
+openai-whisper==20231117
+python-dotenv==1.0.1
+pydub==0.25.1
+
+# TORCH – CPU versiya (universal)
+torch==2.1.2
+
+# Audio backend (Whisper uchun zarur)
+numba==0.58.1
+numpy==1.26.2
+soundfile==0.12.1
+tqdm==4.66.1
